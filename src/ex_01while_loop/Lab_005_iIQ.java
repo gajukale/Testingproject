@@ -1,4 +1,4 @@
-package while_loop;
+package ex_01while_loop;
 
 public class Lab_005_iIQ
 {

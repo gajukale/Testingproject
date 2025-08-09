@@ -1,6 +1,4 @@
-package while_loop;
-
-import java.sql.SQLOutput;
+package ex_01while_loop;
 
 public class Lab_002_while2
 {

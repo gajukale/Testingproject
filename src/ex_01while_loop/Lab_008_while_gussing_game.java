@@ -1,4 +1,4 @@
-package while_loop;
+package ex_01while_loop;
 
 import java.util.Random;
 import java.util.Scanner;
